@@ -1,1 +1,3 @@
-whatever the .env dependency is
+pip install python-dotenv
+pip install openai
+pip install flask
